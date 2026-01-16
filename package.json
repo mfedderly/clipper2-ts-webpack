@@ -1,0 +1,21 @@
+{
+  "name": "clipper2-ts-webpack",
+  "license": "MIT",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "packageManager": "pnpm@10.28.0",
+  "devDependencies": {
+    "webpack": "^5.104.1",
+    "webpack-cli": "^6.0.1"
+  },
+  "dependencies": {
+    "clipper2-ts": "2.0.1-2"
+  }
+}
